@@ -1,0 +1,18 @@
+{
+	"bmi-installation" : null,
+	"compiler-frontend-variant" : "GNU",
+	"compiler-id" : "GNU",
+	"compiler-simulate-id" : "",
+	"config" : "Debug",
+	"cxx-modules" : {},
+	"dir-cur-bld" : "/home/emirk/CLionProjects/Object_oriented_programming_c++/cmake-build-debug",
+	"dir-cur-src" : "/home/emirk/CLionProjects/Object_oriented_programming_c++",
+	"dir-top-bld" : "/home/emirk/CLionProjects/Object_oriented_programming_c++/cmake-build-debug",
+	"dir-top-src" : "/home/emirk/CLionProjects/Object_oriented_programming_c++",
+	"exports" : [],
+	"forward-modules-from-target-dirs" : [],
+	"include-dirs" : [],
+	"language" : "CXX",
+	"linked-target-dirs" : [],
+	"module-dir" : "/home/emirk/CLionProjects/Object_oriented_programming_c++/cmake-build-debug/CMakeFiles/Object_oriented_programming_c__.dir"
+}
